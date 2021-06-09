@@ -34,10 +34,14 @@ we have two models here: LR and CNN.
 use command "python3 run_app.py" to start the system.
 
 ### Front-end Environment requirement
-#### go to folder "web" in terminal, input "yarn" to install dependencies
-#### Then "yarn build" to generate related html files.
+#### VUE
+#### YARN
+
+Go to folder "web" in terminal, input "yarn" to install dependencies.
+
+Then "yarn build" to generate related html files.
 
 ### Back-end Environment requirement
 #### Python3
-#### Then "pip3 install requirement.txt"
+#### Use "pip3 install requirement.txt" to install all dependencies.
 
