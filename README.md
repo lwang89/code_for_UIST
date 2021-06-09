@@ -8,7 +8,7 @@ use command: "python3 main.py" to run the program.
 #### pandas
 #### numpy
 #### glob
-### brian_data.py
+### brain_data.py
 please set the path for brain data here.
 
 ### main.py
