@@ -27,3 +27,5 @@ Please check comments inside the file.
 Please check comments inside the file.
 ### utils.py
 Some functions here, including MixUp.
+### models.py
+we have two models here: LR and CNN.
