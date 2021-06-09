@@ -9,11 +9,11 @@ use command: "python3 main.py" to run the program.
 #### numpy
 #### glob
 ### brain_data.py
-please set the path for brain data here.
+please set the local path for fNIRS brain data here.
 
 ### main.py
 
-In line 248-250, you can choose "allphases" to run 3phase model, or "last2phases" to run on phase2 and phase3 model, or "baseline" to run on only phase3 model.
+In line 248-250, you can choose "allphases" to run all 3phase models, or "last2phases" to run on phase2 and phase3 models, or "baseline" to run on only phase3 model.
 
 In line 256-258, you can choose load full or half of the training data.
 
@@ -35,7 +35,7 @@ use command "python3 run_app.py" to start the system.
 
 ### Front-end Environment requirement
 #### go to folder "web" in terminal, input "yarn" to install dependencies
-#### then "yarn build" to generate related html files.
+#### Then "yarn build" to generate related html files.
 
 ### Back-end Environment requirement
 #### Python3
