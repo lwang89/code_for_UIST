@@ -1,11 +1,12 @@
 # code_for_UIST
 use command: "python3 main.py" to run the program.
 ## Environment requirement
-### Python3
-### PyTorch
-### pandas
-### numpy
-### glob
+#### Python3
+#### PyTorch
+#### pandas
+#### numpy
+#### glob
+
 ## 3phase_code
 ### brian_data.py
 please set the path for brain data here.
